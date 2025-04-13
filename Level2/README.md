@@ -4,19 +4,19 @@ This level focuses on deeper statistical and visual analysis, including correlat
 
 ## 📊 Tasks Overview
 
-### ✅ Task 1: Ratings Distribution
+### ✅ Task 1: [Ratings Distribution](https://github.com/ridhwansalim/Cognifyz_Internship_Data_Analysis/blob/main/Level2/Task1_Restaurant_Ratings.ipynb)
 - Distribution of aggregate ratings
 - Avg. votes per restaurant
 
-### ✅ Task 2: Cuisine Combinations
+### ✅ Task 2: [Cuisine Combinations](https://github.com/ridhwansalim/Cognifyz_Internship_Data_Analysis/blob/main/Level2/Task2_Cuisine_Combination.ipynb)
 - Common cuisine pairings
 - Analyzed rating behavior
 
-### ✅ Task 3: Geographic Mapping
+### ✅ Task 3: [Geographic Mapping](https://github.com/ridhwansalim/Cognifyz_Internship_Data_Analysis/blob/main/Level2/Task3_Geographic_Analysis.ipynb)
 - Plotted locations using latitude & longitude
 - Visualized clusters via Plotly & Folium
 
-### ✅ Task 4: Restaurant Chains
+### ✅ Task 4: [Restaurant Chains](https://github.com/ridhwansalim/Cognifyz_Internship_Data_Analysis/blob/main/Level2/Task4_Restaurant_Chains.ipynb)
 - Detected chains by name frequency
 - Analyzed popularity and performance
 
