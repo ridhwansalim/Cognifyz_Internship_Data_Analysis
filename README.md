@@ -12,7 +12,7 @@ Welcome to my project repository for the **Data Analysis Internship** at [Cognif
 
 ## 📂 Task Structure
 
-### ✅ Level 1: [Exploratory Data Analysis](#https://github.com/ridhwansalim/Cognifyz_Internship_Data_Analysis/tree/main/Level1)
+### ✅ Level 1: [Exploratory Data Analysis](https://github.com/ridhwansalim/Cognifyz_Internship_Data_Analysis/tree/main/Level1)
 | Task | Title                        | Description |
 |------|------------------------------|-------------|
 | 1    | Top Cuisines                 | Identified top cuisines and their market share |
