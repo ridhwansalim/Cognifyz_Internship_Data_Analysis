@@ -50,4 +50,13 @@ This internship allowed me to apply core data analysis skills in a real-world se
 
 ---
 
-📬 Want to connect? [LinkedIn](https://www.linkedin.com/in/ridhwan-s)  
+📬 Want to connect? [LinkedIn](https://www.linkedin.com/in/ridhwan-s) 
+
+---
+
+## 🔒 License
+
+This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).  
+You can use the code and analysis for **educational or non-commercial purposes** — just give credit.
+
+© 2025 Ridhwan S.
