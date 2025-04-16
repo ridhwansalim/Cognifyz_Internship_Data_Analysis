@@ -50,7 +50,7 @@ This internship allowed me to apply core data analysis skills in a real-world se
 
 ---
 
-📬 Want to connect with me? [LinkedIn](https://www.linkedin.com/in/ridhwan-s) 
+📬 Want to connect? [LinkedIn](https://www.linkedin.com/in/ridhwan-s) 
 
 ---
 
